@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Saad Raza SEO Services - Top SEO Expert in Pakistan</title>
+  <meta name="description" content="Saad Raza is a leading SEO expert in Pakistan offering top-notch SEO services to boost your website's ranking and organic traffic." />
+</head>
+<body style="font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; background-color: #f9f9f9; color: #333;">
+  <h1 style="color: #2c3e50;">Saad Raza - Top SEO Expert in Pakistan</h1>
+  <p>If you want to improve your website’s Google ranking and organic traffic, leverage the expert SEO services provided by <strong>Saad Raza</strong>. We specialize in technical SEO, on-page and off-page optimization, and content strategy.</p>
+
+  <h2 style="color: #34495e;">Our SEO Services Include:</h2>
+  <ul>
+    <li>Technical SEO for Shopify and other platforms</li>
+    <li>Keyword research and market analysis</li>
+    <li>Effective on-page SEO and content strategy</li>
+    <li>Backlink building and off-page optimization</li>
+  </ul>
+
+  <p>Learn more about our services by visiting:</p>
+  <p><a href="https://saadrazaseo.com" target="_blank" rel="noopener" style="color: #2980b9; text-decoration: none; font-weight: bold;">SaadRazaSEO.com</a></p>
+
+  <footer style="margin-top: 40px; font-size: 0.9em; color: #7f8c8d;">
+    © 2025 Saad Raza SEO Services | Your Trusted SEO Partner in Pakistan
+  </footer>
+</body>
+</html>
